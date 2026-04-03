@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# ChromaDB (auto-generated, don't upload)
+chroma_db/
+
+# Uploaded PDFs (temp files)
+backend/uploads/
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
